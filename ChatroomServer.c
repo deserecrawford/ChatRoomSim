@@ -1,6 +1,5 @@
 /*
 	Name: Desere Crawford
-	EUID: dac0313
 	Decription: This is the server side of a chat room simulated program. This part uses pthreads and selects to send. recieve, and manipulate data.
 		This project utilizes server sockets, fds, ip addresses, and others to run the program.
 */
