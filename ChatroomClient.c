@@ -54,7 +54,7 @@ int main(int argc, char *argv[])
 
 	fflush(stdout);
 
-	puts("Welcome to the 3600 Chat Room!\n");//lets client know they are in the chatroom now
+	puts("Welcome to the Chat Room!\n");//lets client know they are in the chatroom now
 
 	fflush(stdout);
 	max = sockfd+1;
